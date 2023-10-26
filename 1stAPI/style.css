@@ -2,14 +2,15 @@
     background-color: #ec9a29;
     text-align: center;
     margin-top: 5px 5px 5px 5px;
-    padding: 10px;
+    padding: 5px;
     /* width: 100%; */
 }
 body{
-    width: 92%;
+    width: 100%;
 }
 table{
-    width: 90%;
+    padding-right: 5px;
+    width: 98%;
     box-sizing: content-box;
     border-radius: 10px;
 }
