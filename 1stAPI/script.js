@@ -22,7 +22,3 @@ GetApi.then(response => response.json())
          })
          
     .catch(error => {console.log(error)});
-<<<<<<< HEAD
-
-=======
->>>>>>> c58f55fded6adc07e1856d4519e53fbc644a5cdc
