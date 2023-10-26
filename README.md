@@ -2,13 +2,6 @@
 
 This project is a simple web application that fetches and displays news data from the [News API](https://newsapi.org/). It demonstrates how to use JavaScript to make API requests, process the response data, and dynamically create an HTML table to present the information. Additionally, the project includes CSS styles to enhance the visual presentation of the data.
 
-## Table of Contents
-
-- [Demo]
-- [Features]
-- [How to Use]
-- [Contributing]
-- [License]
 
 
 ## Features
